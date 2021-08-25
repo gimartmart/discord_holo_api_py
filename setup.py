@@ -3,12 +3,13 @@ import setuptools
 
 
 setuptools.setup(
-    name="discord_holo_api",
-    version="0.0.1",
+    name="discord-holo-api",
+    version="1.0.0",
     author="mandarin",
     author_email="burjtyuu@gmail.com",
     description="Python module for API holo",
     long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     url="https://github.com/gimartmart/discord_holo_api_py",
     packages=setuptools.find_packages(),
     classifiers=[

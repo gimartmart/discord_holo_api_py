@@ -20,8 +20,8 @@ pip install discord-holo-api
 # How to use
 
 ```py
-import discord_holo_api
-print(discord_holo_api.random("art"))
+import DiscordHoloApi
+print(DiscordHoloApi.random("art"))
 
 
 /*Available endpoint
@@ -34,4 +34,5 @@ print(discord_holo_api.random("art"))
 ## Links
 
 *   [Website](http://discord-holo-api.ml/api/)
+*   [Website](https://github.com/gimartmart/discord_holo_api_py)
 *   [Discord](https://discord.gg/TApdfmN)
