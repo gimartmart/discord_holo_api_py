@@ -26,7 +26,7 @@ print(DiscordHoloApi.random("art"))
 
 /*Available endpoint
 
-["art", "ask","bite", "cry", "cuddle", "dance", "ego", "glare","highfive", "hug", "kiss", "lick", "nom", "pat", "poke", "pressf", "punch", "sex", "shoot", "slap", "slappope", "smug", "suicide", "tickle", "wasted", "wink"]
+["404, anal, art, ask, avatar, baka, bite, bj, blowjob, boobs, cry, cuddle, cum, dance, ego, ero, erofeet, erok, erokemo, eroyuri, feed, feet, feetg, fox_girl, futanari, glare, hentai_gif, highfive, holo, holoero, hololewd, hug, kemonomimi, kiss, kuni, les, lewd, lick, loli, meow, neko, ngif, nom, pat, poke, pressf, punch, pussy, pwankg, sex, slap, slappope, smug, solo, tickle, tits, trap, waifu, wallpaper, wasted, wink, woof, yuri"]
     
     */
 ```
@@ -34,5 +34,6 @@ print(DiscordHoloApi.random("art"))
 ## Links
 
 *   [Website](http://discord-holo-api.ml/api/)
-*   [Website](https://github.com/gimartmart/discord_holo_api_py)
+*   [Api status](http://discord-holo-api.ml/api/stats)
+*   [GitHub](https://github.com/gimartmart/discord_holo_api_py)
 *   [Discord](https://discord.gg/TApdfmN)
