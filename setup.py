@@ -4,7 +4,7 @@ import setuptools
 
 setuptools.setup(
     name="discord-holo-api",
-    version="1.1.0",
+    version="1.3.0",
     author="mandarin",
     author_email="burjtyuu@gmail.com",
     description="Python module for API holo",
