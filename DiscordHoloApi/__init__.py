@@ -1,17 +1,17 @@
 import requests
 
-core = requests.get(f'http://discord-holo-api.ml/api')
+core = requests.get(f'http://discord-holo-api.ml:8080/api')
 core = core.json()
 core = core["requests"]
 def random(arg:str):
-    resp  = requests.get(f'http://discord-holo-api.ml/api/{arg}')
+    resp  = requests.get(f'http://discord-holo-api.ml:8080/api/{arg}')
     if arg not in core:
         return f"Error! This tag does not exist!\nAll Tags: {core}"
     
     elif resp.status_code == 200:
         return resp.json()["url"]
 def stats():
-    stat  = requests.get(f'http://discord-holo-api.ml/api/stats')
+    stat  = requests.get(f'http://discord-holo-api.ml:8080/api/stats')
     stat = str(stat.json())
     return stat
 
